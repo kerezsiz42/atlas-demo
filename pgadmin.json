@@ -1,0 +1,12 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "DB",
+      "Group": "Servers",
+      "Port": 5432,
+      "Username": "user",
+      "Host": "database",
+      "MaintenanceDB": "dev"
+    }
+  }
+}
